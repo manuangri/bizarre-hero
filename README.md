@@ -1,1 +1,1 @@
-# bizzare-hero
+# bizarre-hero
